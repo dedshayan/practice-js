@@ -1,1 +1,1 @@
-# repository
+# practice-js
